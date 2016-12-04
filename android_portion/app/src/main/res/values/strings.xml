@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Junk Movers</string>
+    <string name="error_title">Error. Action Stopped</string>
+    <string name="error_message">There was an error. Please try again.</string>
+    <string name="error_ok_btn_txt">OK</string>
+    <string name="network_unavail_message">Network is not available</string>
+    <string name="title_activity_get_map">Map</string>
+</resources>
